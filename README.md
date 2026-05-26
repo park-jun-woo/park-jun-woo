@@ -16,6 +16,8 @@ I build tools that make AI-generated code **verifiable** instead of hopeful.
 | [**ssac**](https://github.com/park-jun-woo/ssac) | Service Sequences as Code. Declarative service logic in Go comments → generated implementation. |
 | [**whyso**](https://github.com/park-jun-woo/whyso) | Extract the "why" behind every file change from Claude Code sessions. |
 | [**tsma**](https://github.com/park-jun-woo/tsma) | LLM-driven test extraction from legacy code — branch coverage oracle. |
+| [**juicer**](https://github.com/park-jun-woo/juicer) | Static analysis tool that extracts OpenAPI specs, DDL schemas, and SQL skeletons from web framework source code. |
+| [**huma**](https://github.com/park-jun-woo/huma) | Hurl Master — Ratchet tool that drives AI agents to write wall-to-wall Hurl tests for SaaS backend APIs. |
 
 ## Research
 
